@@ -4,3 +4,6 @@ While building this model, I have implimented :
 1. face_recognition module in python 
 2. openCV to control webcam
 3. college intranet student images to train the module
+
+## umang 
+    -> Umang : eat, sleep, code, repeat
